@@ -4,7 +4,7 @@
   [Arizona State University](https://www.asu.edu)
   <h3> Email: rduan6@asu.edu </h3>
   
-  ![Image of me](file:///Users/randuan/Desktop/me.png)
+  ![Image of ASU](https://ewscripps.brightspotcdn.com/dims4/default/d2e97df/2147483647/strip/true/crop/544x306+3+33/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F45%2F3a%2Fcc5033e7460aacc84d3524245f8d%2Fblack-fork-0.jpg)
  
  
 ### Objective
