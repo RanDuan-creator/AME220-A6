@@ -4,7 +4,7 @@
   [Arizona State University](https://www.asu.edu)
   <h3> Email: rduan6@asu.edu </h3>
   
-  ![Image of ASU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abc15.com%2Fsports%2Fformer-asu-assistant-coach-anthony-coleman-mentioned-during-ncaa-hoops-trial&psig=AOvVaw362DaeE_gCsf8LnKoyvGi7&ust=1583281060627000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi7seiD_ecCFQAAAAAdAAAAABAD)
+  ![Image of me](file:///Users/randuan/Desktop/me.png)
  
  
 ### Objective
