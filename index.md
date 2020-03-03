@@ -42,3 +42,14 @@
     </tr>
 </table>
 </article>
+
+### Experience
+
+1. I have learned some of the Java skills in CSE 110 and CSE 205.
+2. I'm learning the Html, the website programming in AME 220.
+3. I have learned some of the knowledges about C++ in CSE 240.
+
+### References
+
+* [W3schools] (https://www.w3schools.com/colors/colors_names.asp)
+* [GIT] (https://github.com/tejaswigowda/ame220Spring2020/tree/master/ASSIGNMENTS/A3)
